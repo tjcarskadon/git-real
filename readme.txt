@@ -1,0 +1,1 @@
+A simple readme file for the git class
