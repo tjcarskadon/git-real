@@ -1,3 +1,5 @@
-A simple readme file for the git class
+README
 
-A modification to add a "Licese" so that I have something to check in the git class.
+Just a simple read me file for my git real class on codeschool
+
+the cake is a lie
